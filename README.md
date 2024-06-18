@@ -1,5 +1,6 @@
 
 # Email Exporter
+![Project Cover](./image.png)
 
 This program is designed for quickly and easily extracting all emails or selected folders from any mail server that supports IMAP. The program supports exporting from an unlimited number of mailboxes specified in the configuration file.
 
